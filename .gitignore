@@ -1,0 +1,7 @@
+venv
+
+# Raw data
+sensor_data.xlsx
+
+# .DS_Store Files
+.DS_Store
